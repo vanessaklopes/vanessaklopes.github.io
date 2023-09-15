@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(159, 164, 196);
+    height: 100px;
+}
+.link-cabecalho{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+#meu_nome{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+}
+#minha-foto{
+    width: 250px;
+}
+body{
+    background-color: rgb(231, 240, 241);
+}
